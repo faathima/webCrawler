@@ -1,0 +1,21 @@
+Server: Apache
+X-Cache-Action: MISS
+X-Cache-Age: 0
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+X-News-Data-Centre: cwwtf
+X-Pal-Host: pal052.back.live.cwwtf.local:80
+X-News-Cache-Id: 72424
+Accept-Ranges: bytes
+Date: Sun, 15 Jul 2018 06:57:43 GMT
+Via: 1.1 varnish
+Age: 0
+X-Lb-Nocache: true
+X-Fastly-Cache-Status: MISS-CLUSTER
+Set-Cookie: BBC-UID=6d50882242041438794e4fd168cc14980c5fb235579c99b054d6efce54d456290Scrapy%2F1.5.0%20%28%2Bhttps%3A%2F%2Fscrapy.org%29; expires=Thu, 14 Jul 2022 06:57:43 GMT; path=/; domain=.bbc.com
+Cache-Control: private, max-age=60, stale-while-revalidate
+X-Served-By: cache-sin18029-SIN
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1531637861.453583,VS0,VE2223
+Vary: Accept-Encoding

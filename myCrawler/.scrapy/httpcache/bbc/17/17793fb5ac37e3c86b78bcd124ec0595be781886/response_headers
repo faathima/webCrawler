@@ -1,0 +1,16 @@
+Server: Apache
+Last-Modified: Wed, 04 Jul 2018 22:04:19 GMT
+Etag: "425-570339cbf9ec0"
+Cache-Control: max-age=3600, public
+Content-Type: text/plain
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Sun, 15 Jul 2018 06:57:40 GMT
+Via: 1.1 varnish
+Age: 2402
+X-Fastly-Cache-Status: HIT-CLUSTER
+X-Served-By: cache-sin18021-SIN
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1531637861.803469,VS0,VE0
+Vary: Accept-Encoding
